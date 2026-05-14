@@ -180,7 +180,3 @@ Para GitHub Pages, publique a partir da branch principal usando a pasta raiz do 
 - Links públicos de contato, WhatsApp, imagens, fontes e documentos foram mantidos porque fazem parte da navegação e apresentação do site.
 
 ---
-
-## Status
-
-Projeto estruturado como site institucional estático, pronto para versionamento no GitHub e publicação após configuração segura do formulário.
